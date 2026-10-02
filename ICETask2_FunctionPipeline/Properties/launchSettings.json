@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "ICETask2_FunctionPipeline": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7257",
+      "launchBrowser": false
+    }
+  }
+}
